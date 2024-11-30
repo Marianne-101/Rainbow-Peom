@@ -3,4 +3,7 @@ The Rainbow and the Unicorn and the Pony
 Purple
 Pink
 Orange
-
+Blue
+Green
+Red
+These are the colors of the rainbow.
